@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="jenkins logo"  />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
   <img width="12" />
